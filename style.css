@@ -1356,12 +1356,12 @@ textarea {
         padding: 100px 30px;
     }
 
-    .team-member-cards-container{
+    .team-member-cards-container {
         gap: 20px;
         grid-template-columns: 1fr;
     }
 
-  
+
 
 
 
