@@ -207,6 +207,6 @@ Backend integration, database functionality, and automated testing are not inclu
 A responsive educational website showcasing a modern
 school platform for parents and students.
 
-Live Demo -- https://kidle-education.vercel.app/
+Live Demo -- https://kidleeducation.vercel.app/
 
 Built with HTML5 and CSS3.
