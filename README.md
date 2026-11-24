@@ -202,4 +202,11 @@ Current Status: Frontend implementation
 The current version demonstrates foundational frontend development skills, including responsive web design, CSS Grid, Flexbox, custom properties, hover interactions, and CSS animations.
 Backend integration, database functionality, and automated testing are not included in the current repository.
 
+7. Kidla – Early Learning School Website
+
+A responsive educational website showcasing a modern
+school platform for parents and students.
+
+Live Demo -- https://kidle-education.vercel.app/
+
 Built with HTML5 and CSS3.
